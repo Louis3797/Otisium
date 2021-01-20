@@ -18,9 +18,16 @@ This App is build with React, Javascript, HTML and CSS.
 
 The Website is structured with 4 main Pages and 3 secondary Pages:
 
-Main Pages: - Home => /home - About => /about - trainer => /trainer - Contact => /contact
+Main Pages: 
+    - Home => /home 
+    - About => /about 
+    - Trainer => /trainer 
+    - Contact => /contact
 
-Secondary Pages: - NoMatch => "every time when there is no matching url" - Imprint => /imprint **Not added yet - Privacy => /privacy **Not added yet
+Secondary Pages: 
+    - NoMatch => "every time when there is no matching url" 
+    - Imprint => /imprint **Not added yet 
+    - Privacy => /privacy **Not added yet
 
 # Package Manager
 

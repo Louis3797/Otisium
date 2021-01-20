@@ -28,7 +28,7 @@ The used package Manager is yarn
 
 to start the project on a port use => "yarn start"
 
-TODOS:
+# Todos
 
     -Add imprint
     -Add Privacy

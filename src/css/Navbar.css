@@ -47,16 +47,16 @@
   width: 300px;
   height: 100vh;
   display: flex;
-  position: absolute;
+  position: fixed;
   top: 0;
-  left: -100%;
+  right: -100%;
   transition: 850ms;
   align-items: flex-start;
   overflow: hidden;
 }
 
 .navbar-sidebar.active {
-  left: 0;
+  right: 0;
   transition: 350ms;
 }
 
@@ -73,6 +73,7 @@
 
 .navbar-icon-close:hover {
   color: var(--text-color);
+  transition: 500ms;
 }
 
 .navbar-link {

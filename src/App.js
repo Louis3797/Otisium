@@ -7,6 +7,8 @@ import { Home } from "./pages/Home";
 import { About } from "./pages/About";
 import { Trainer } from "./pages/Trainer";
 import { Contact } from "./pages/Contact";
+import { Imprint } from "./pages/Imprint";
+import { Privacy } from "./pages/Privacy";
 import { NoMatch } from "./pages/NoMatch";
 
 import { NavBar } from "./components/Navbar";
@@ -22,6 +24,8 @@ export const App = () => {
           <Route path="/about" component={About} />
           <Route path="/trainer" component={Trainer} />
           <Route path="/contact" component={Contact} />
+          <Route path="/imprint" component={Imprint} />
+          <Route path="/privacy" component={Privacy} />
           <Route component={NoMatch} />
         </Switch>
         <Footer />

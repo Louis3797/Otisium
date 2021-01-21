@@ -53,6 +53,7 @@
   transition: 850ms;
   align-items: flex-start;
   overflow: hidden;
+  z-index: 10;
 }
 
 .navbar-sidebar.active {
@@ -85,4 +86,33 @@
 }
 .navbar-link:hover {
   color: var(--secondary-color);
+}
+
+@media only screen and (max-width: 600px) {
+  .navbar-sidebar {
+    display: flex;
+    flex-direction: column;
+    border-radius: 0px;
+    background-color: var(--primary-color);
+    width: 300px;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: -100%;
+    transition: 850ms;
+    align-items: flex-start;
+    overflow: hidden;
+  }
+
+  .navbar-sidebar.active {
+    left: 0;
+    transition: 350ms;
+  }
+
+  .navbar-div img {
+    height: auto;
+    width: 200px;
+    justify-self: start;
+    margin-left: 10px;
+  }
 }

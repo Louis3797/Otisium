@@ -48,3 +48,24 @@ footer {
   font-size: 1rem;
   color: var(--text-color);
 }
+
+@media only screen and (max-width: 600px) {
+  .footer-link {
+    font-size: 0.6rem;
+    text-decoration: none;
+    color: var(--text-color);
+    transition: 500ms;
+  }
+
+  .footer-icon {
+    margin-top: 1px;
+    font-size: 0.8rem;
+    margin-right: 1px;
+    color: var(--text-color);
+  }
+
+  .footer-text {
+    font-size: 0.6rem;
+    color: var(--text-color);
+  }
+}

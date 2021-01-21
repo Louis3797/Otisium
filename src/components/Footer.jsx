@@ -12,10 +12,10 @@ export const Footer = () => {
           <CgCopyright className="footer-icon" />
           <p className="footer-text">2021, by Louis-Kaan Ay</p>
         </div>
-        <Link to="/impressum" className="footer-link">
+        <Link to="/imprint" className="footer-link">
           Impressum
         </Link>
-        <Link to="/datenschutz" className="footer-link">
+        <Link to="/privacy" className="footer-link">
           Datenschutz
         </Link>
         <Link to="/contact" className="footer-link">

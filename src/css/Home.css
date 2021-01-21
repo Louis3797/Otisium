@@ -100,3 +100,22 @@
   transform: scale(1.5);
   transition: 1s;
 }
+
+@media only screen and (max-width: 600px) {
+  .home-div-1 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .home-title {
+    font-size: 1.6rem;
+    color: var(--primary-color);
+  }
+
+  .home-author {
+    font-size: 1.3rem;
+    margin-top: -10px;
+    color: var(--secondary-color);
+  }
+}

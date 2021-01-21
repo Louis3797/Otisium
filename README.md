@@ -18,16 +18,16 @@ This App is build with React, Javascript, HTML and CSS.
 
 The Website is structured with 4 main Pages and 3 secondary Pages:
 
-Main Pages: 
-    -Home => /home 
-    -About => /about 
-    -Trainer => /trainer 
-    -Contact => /contact
+Main Pages:
+-Home
+-About
+-Trainer
+-Contact
 
-Secondary Pages: 
-    -NoMatch => "every time when there is no matching url" 
-    -Imprint => /imprint **Not added yet 
-    -Privacy => /privacy **Not added yet
+Secondary Pages:
+-NoMatch
+-Imprint
+-Privacy
 
 # Package Manager
 
@@ -41,5 +41,3 @@ to start the project on a port use => "yarn start"
     -Add Privacy
     -Add Texts and Titles
     -Add other Pictures at some Point (Home, etc...)
-
-

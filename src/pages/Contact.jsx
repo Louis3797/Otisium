@@ -16,17 +16,16 @@ export const Contact = () => {
         <div className="contact-info-div">
           <div className="contact-info-box">
             <MdLocalPhone className="contact-icon" />
-            <p className="contact-text">+49 9495940</p>
+            <p className="contact-text">+49 160 9230 11 20 </p>
           </div>
           <div className="contact-info-box">
             <MdEmail className="contact-icon" />
-            <p className="contact-text">test@otisium.de</p>
+            <p className="contact-text">info@loyalaut.de</p>
           </div>
           <div className="contact-info-box">
             <FaMapMarkerAlt className="contact-icon" />
             <p className="contact-text-title">Adresse:</p>
           </div>
-          <p className="contact-approach-text">32257 Bünde</p>
           <p className="contact-approach-text">Am Kreuzstein 4</p>
           <p className="contact-approach-text">32257 Bünde</p>
         </div>

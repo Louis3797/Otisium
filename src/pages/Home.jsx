@@ -22,7 +22,7 @@ export const Home = () => {
       </div>
       <div className="home-div-2">
         <div className="home-socialLogo-div">
-          <a href="https://www.instagram.com/otisium/?hl=de">
+          <a href="https://www.instagram.com/loyalaut.de/?hl=de">
             <IoLogoInstagram className="home-socialLogo-Ig" />
           </a>
           <IoLogoFacebook className="home-socialLogo-Fa" />

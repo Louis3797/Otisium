@@ -37,6 +37,10 @@
   text-align: justify;
 }
 
+.text-text ul {
+  text-align: start;
+}
+
 @media only screen and (max-width: 600px) {
   .text-container {
     display: flex;
@@ -54,6 +58,7 @@
   }
 
   .text-img-right {
+    margin-top: 10px;
     width: 150px;
     height: auto;
     margin-left: 50%;
@@ -68,7 +73,7 @@
   }
 
   .text-title {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     color: var(--secondary-color);
     text-align: flex-start;
     font-weight: 700;
@@ -76,8 +81,12 @@
   }
 
   .text-text {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     color: var(--text-color);
     text-align: justify;
+  }
+
+  .text-text ul {
+    text-align: start;
   }
 }

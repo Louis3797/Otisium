@@ -16,7 +16,7 @@ import { Footer } from "./components/Footer";
 
 export const App = () => {
   return (
-    <div className="App">
+    <>
       <Router>
         <NavBar />
         <Switch>
@@ -30,6 +30,6 @@ export const App = () => {
         </Switch>
         <Footer />
       </Router>
-    </div>
+    </>
   );
 };

@@ -14,6 +14,8 @@ This App is build with React, Javascript, HTML and CSS.
 
 4. react-icons
 
+5. react-responsive
+
 # Layout
 
 The Website is structured with 4 main Pages and 3 secondary Pages:

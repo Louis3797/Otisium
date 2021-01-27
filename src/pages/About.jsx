@@ -13,12 +13,10 @@ export const About = () => {
     }
   });
   return (
-    <>
-      <div className="about-container">
-        <div className="about-placeholder" />
-        {text}
-        <div className="about-placeholder" />
-      </div>
-    </>
+    <div className="about-container">
+      <div className="about-placeholder" />
+      {text}
+      <div className="about-placeholder" />
+    </div>
   );
 };

@@ -31,7 +31,7 @@
 
 .navbar-icon {
   font-size: 2rem;
-  color: var(--secondary-color);
+  color: var(--text-color);
   margin-right: 30px;
   transition: 1s;
 }
@@ -68,13 +68,13 @@
   margin-top: 20px;
   margin-bottom: 40px;
   font-size: 30px;
-  color: #007cb0;
+  color: var(--text-color);
   justify-content: start;
   font-weight: 700;
 }
 
 .navbar-icon-close:hover {
-  color: var(--text-color);
+  color: var(--secondary-color);
   transition: 500ms;
 }
 

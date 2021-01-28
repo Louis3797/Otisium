@@ -1,6 +1,6 @@
 import { render } from "@testing-library/react";
 import { App } from "./App";
-import { Text1 } from "./components/Text";
+import { Text1, Text2 } from "./components/Text";
 
 import { About } from "./pages/About";
 import { Contact } from "./pages/Contact";
@@ -20,8 +20,13 @@ test("Renders Home", () => {
   expect(container).toBeDefined;
 });
 
-test("Renders Text", () => {
+test("Renders Text1", () => {
   const container = render(<Text1 />);
+  expect(container).toBeDefined;
+});
+
+test("Renders Text2", () => {
+  const container = render(<Text2 />);
   expect(container).toBeDefined;
 });
 

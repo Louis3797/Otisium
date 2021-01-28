@@ -109,8 +109,13 @@
   -webkit-box-shadow: 0px 30px 47px -30px rgba(138, 149, 158, 0.2);
   box-shadow: 0px 30px 47px -30px rgba(138, 149, 158, 0.2);
   outline: none;
+  transition: 500ms;
 }
 
+.contact-button:hover {
+  opacity: 0.8;
+  transition: 500ms;
+}
 @media only screen and (max-width: 600px) {
   .contact-container {
     display: flex;
@@ -151,6 +156,7 @@
 
   .contact-info-container {
     margin-top: 5vh;
+    margin-bottom: 5vh;
     display: flex;
     flex-direction: column;
     width: 70%;
@@ -224,5 +230,6 @@
     -webkit-box-shadow: 0px 30px 47px -30px rgba(138, 149, 158, 0.2);
     box-shadow: 0px 30px 47px -30px rgba(138, 149, 158, 0.2);
     outline: none;
+    transition: 500ms;
   }
 }

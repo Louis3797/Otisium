@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/LoyalAut/static/css/main.e6e84535.chunk.css",
+    "main.js": "/LoyalAut/static/js/main.b0b7d21e.chunk.js",
+    "main.js.map": "/LoyalAut/static/js/main.b0b7d21e.chunk.js.map",
+    "runtime-main.js": "/LoyalAut/static/js/runtime-main.d5c2cf3d.js",
+    "runtime-main.js.map": "/LoyalAut/static/js/runtime-main.d5c2cf3d.js.map",
+    "static/css/2.ec02d681.chunk.css": "/LoyalAut/static/css/2.ec02d681.chunk.css",
+    "static/js/2.023b5864.chunk.js": "/LoyalAut/static/js/2.023b5864.chunk.js",
+    "static/js/2.023b5864.chunk.js.map": "/LoyalAut/static/js/2.023b5864.chunk.js.map",
+    "static/js/3.3962ba04.chunk.js": "/LoyalAut/static/js/3.3962ba04.chunk.js",
+    "static/js/3.3962ba04.chunk.js.map": "/LoyalAut/static/js/3.3962ba04.chunk.js.map",
+    "index.html": "/LoyalAut/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/LoyalAut/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.e6e84535.chunk.css.map": "/LoyalAut/static/css/main.e6e84535.chunk.css.map",
+    "static/js/2.023b5864.chunk.js.LICENSE.txt": "/LoyalAut/static/js/2.023b5864.chunk.js.LICENSE.txt",
+    "static/media/error-image.004ba675.svg": "/LoyalAut/static/media/error-image.004ba675.svg",
+    "static/media/image-1.65df75be.svg": "/LoyalAut/static/media/image-1.65df75be.svg",
+    "static/media/image-2.cde96d30.svg": "/LoyalAut/static/media/image-2.cde96d30.svg",
+    "static/media/image-3.38ca361c.svg": "/LoyalAut/static/media/image-3.38ca361c.svg",
+    "static/media/image-4.1f728823.svg": "/LoyalAut/static/media/image-4.1f728823.svg",
+    "static/media/image-5.9ae65849.svg": "/LoyalAut/static/media/image-5.9ae65849.svg",
+    "static/media/mert-trainer-image.9c63878d.jpg": "/LoyalAut/static/media/mert-trainer-image.9c63878d.jpg",
+    "static/media/Home.css": "/LoyalAut/static/media/otisium-bg-2.7b25beae.jpg",
+    "static/media/otisium-logo.d72ebda8.png": "/LoyalAut/static/media/otisium-logo.d72ebda8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5c2cf3d.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.023b5864.chunk.js",
+    "static/css/main.e6e84535.chunk.css",
+    "static/js/main.b0b7d21e.chunk.js"
+  ]
+}
